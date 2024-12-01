@@ -13,6 +13,14 @@ layout: page
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% comment %} added block to specify size {% endcomment %}
+              <style>
+                .img-fluid {
+                  max-width: 100px; /* Adjust size as needed */
+                  height: auto;
+                }
+              </style>
+              {% comment %} end added block {% endcomment %}
             {% endif %}
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
@@ -23,11 +31,56 @@ layout: page
         </div>
 
         <div class="clearfix">
+          {% if profile.name %}
+            <h2 class="profile-name">{{ profile.name }}</h2>
+            <style>
+              .profile-name {
+                font-size: 2rem; /* Adjust size */
+                margin-bottom: 10px; /* Add some spacing */
+              }
+            </style>
+          {% endif %}
+          {% if profile.name_en %}
+          <h2 class="profile-name_en">{{ profile.name_en }}</h2>
+            <style>
+              .profile-name_en {
+                font-size: 1rem; /* Adjust size */
+                margin-bottom: 15px; /* Add some spacing */
+              }
+            </style>
+          {% endif %}
+          {% if profile.position %}
+          <h2 class="profile-position">{{ profile.position }}</h2>
+            <style>
+              .profile-position {
+                font-size: 1.5rem; /* Adjust size */
+                margin-bottom: 10px; /* Add some spacing */
+              }
+            </style>
+          {% endif %}
+          {% if profile.email %}
+          <h2 class="profile-email">{{ profile.email }}</h2>
+            <style>
+              .profile-email {
+                font-size: 1rem; /* Adjust size */
+                margin-bottom: 10px; /* Add some spacing */
+              }
+            </style>
+          {% endif %}
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
           {% else %}
             {{ content }}
+          {% endif %}
+          {% if profile.socials %}
+            <div class="profile-socials">
+              {% for social in profile.socials %}
+                <a href="{{ social.url }}" target="_blank" title="{{ social.label }}" class="social-icon">
+                  <i class="{{ social.icon }}"></i>
+                </a>
+              {% endfor %}
+            </div>
           {% endif %}
         </div>
       {% endfor %}
