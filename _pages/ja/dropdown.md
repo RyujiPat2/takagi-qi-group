@@ -6,10 +6,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publicações
+  - title: publications
     permalink: /publications/
   - title: divider
-  - title: projetos
+  - title: projects
     permalink: /projects/
   - title: divider
   - title: blog

@@ -1,0 +1,144 @@
+archive_category: このカテゴリの記事のアーカイブ
+archive_tag: このタグの記事のアーカイブ
+archive_year: この年の記事のアーカイブ
+blog:
+  navigation_title: ブログ
+categories:
+  fun: 楽しみ
+  work: 仕事
+citation:
+  bibtex: "またはBibTeXでの引用:"
+  introduction: "この記事が役立った場合は、次のように引用してください:"
+contact_note: どの方法が最も連絡を取りやすいかについての小さなメモを追加することもできます。
+cv:
+  address: 住所
+  area: エリア
+  awarder: 授与者
+  awards: 賞
+  basics: 基本情報
+  certificates: 証明書
+  city: 市
+  countryCode: 国コード
+  courses: コース
+  date: 日付
+  education: 学歴
+  email: メール
+  endDate: 終了日
+  fluency: 流暢さ
+  highlights: ハイライト
+  image: 画像
+  institution: 機関
+  interests: 興味
+  issuer: 発行者
+  keywords: キーワード
+  label: タイトル
+  language: 言語
+  languages: 言語
+  level: レベル
+  location: 場所
+  name: 名前
+  network: ネットワーク
+  organization: 組織
+  phone: 電話
+  position: 役職
+  postalCode: 郵便番号
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版社
+  reference: 参照
+  references: 参考文献
+  region: 地域
+  releaseDate: 公開日
+  score: スコア
+  skills: スキル
+  startDate: 開始日
+  studyType: 学習タイプ
+  summary: 概要
+  table_of_contents: 目次
+  title: タイトル
+  url: URL
+  username: ユーザー名
+  volunteer: ボランティア
+  work: 仕事
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>で作成し、
+  <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>テーマを使用しています。
+  <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>でホストされています。
+  写真は<a href="https://unsplash.com" target="_blank">Unsplash</a>提供。
+latest_posts: 最新の投稿
+months:
+  long:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+news: ニュース
+newsletter:
+  back: 戻る
+  error: "エラーが発生しました。もう一度お試しください。"
+  subscribe: 登録する
+  subscribed: "ニュースレターに登録しました。"
+  subscribe_to_receive: "今後の記事を受け取るには登録してください:"
+  too_many_signups: "登録が多すぎます。しばらくしてから再試行してください。"
+  wait: "お待ちください..."
+no_news: 現在ニュースはありません...
+pagination:
+  page: ページ
+post:
+  created_in: 作成日
+  created_by: 作成者
+  last_updated: 最終更新日
+references: 参考文献
+related_posts:
+  description: "関連する記事をいくつかご紹介します。ご覧ください:"
+  title: この記事を気に入りましたか？
+search:
+  dark_theme:
+    description: サイトテーマをダークモードに切り替える
+    title: ダークテーマに切り替える
+  dropdown: その他のオプション
+  email: メールを送信
+  footer:
+    close: 閉じる
+    navigate: 移動
+    parent: 親階層に戻る
+    select: 選択
+  languages: 言語
+  light_theme:
+    description: サイトテーマをライトモードに切り替える
+    title: ライトテーマに切り替える
+  navigation: ナビゲーションメニュー
+  news: ニュース
+  placeholder: 検索を開始するには入力してください
+  posts: 投稿
+  projects: プロジェクト
+  socials: ソーシャルネットワーク
+  system_theme:
+    description: サイトテーマをシステムのデフォルトに切り替える
+    title: システムテーマを使用
+  theme: テーマ
+selected_publications: 選択された出版物
+site_description: シンプルな学術テーマ。[*folio](https://github.com/bogoli/-folio)デザインに基づいています。
+
