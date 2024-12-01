@@ -1,6 +1,19 @@
 ---
 layout: page
 ---
+<style>
+  :root {
+    --icon-color: #555; /* Default icon color for light mode */
+    --icon-hover-color: #000; /* Hover color for light mode */
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --icon-color: #aaa; /* Default icon color for dark mode */
+      --icon-hover-color: #fff; /* Hover color for dark mode */
+    }
+</style>
+
 <div class="post">
   <article>
     {% if page.profiles %}
@@ -59,28 +72,47 @@ layout: page
             </style>
           {% endif %}
           {% if profile.email %}
-          <h2 class="profile-email">{{ profile.email }}</h2>
-            <style>
-              .profile-email {
-                font-size: 1rem; /* Adjust size */
-                margin-bottom: 10px; /* Add some spacing */
-              }
-            </style>
+          <div class="profile-contact">
+            <h2 class="profile-email">{{ profile.email }}</h2>
+            <div class="profile-socials">
+              {% if profile.socials %}
+                {% for social in profile.socials %}
+                  <a href="{{ social.url }}" target="_blank" title="{{ social.label }}" class="social-icon">
+                    <i class="{{ social.icon }}"></i>
+                  </a>
+                {% endfor %}
+              {% endif %}
+            </div>
+          </div>
+          <style>
+            .profile-contact {
+              display: flex;
+              align-items: center;
+              margin-bottom: 10px; /* Add spacing below */
+            }
+
+            .profile-email {
+              font-size: 1rem; /* Adjust size */
+              margin-right: 10px; /* Space between email and icons */
+            }
+
+            .profile-socials .social-icon {
+              font-size: 1.2rem; /* Adjust icon size */
+              color: var(--icon-color); /* Use dynamic color variable */
+              text-decoration: none;
+              margin-right: 10px; /* Space between icons */
+            }
+
+            .profile-socials .social-icon:hover {
+              color: #007bff; /* Icon hover color */
+            }
+          </style>
           {% endif %}
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
           {% else %}
             {{ content }}
-          {% endif %}
-          {% if profile.socials %}
-            <div class="profile-socials">
-              {% for social in profile.socials %}
-                <a href="{{ social.url }}" target="_blank" title="{{ social.label }}" class="social-icon">
-                  <i class="{{ social.icon }}"></i>
-                </a>
-              {% endfor %}
-            </div>
           {% endif %}
         </div>
       {% endfor %}
