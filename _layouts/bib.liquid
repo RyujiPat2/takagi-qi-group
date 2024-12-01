@@ -196,8 +196,8 @@
       {% if entry.url and entry.url != blank %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
       {% endif %}
-      {% if entry.preprint and entry.preprint != blank %}
-        <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a>
+      {% if entry.arxiv and entry.arxiv != blank %}
+        <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.pmid and entry.pmid != blank %}
         <a href="https://pubmed.ncbi.nlm.nih.gov/{{ entry.pmid }}" class="btn btn-sm z-depth-0" role="button">PUBMED</a>

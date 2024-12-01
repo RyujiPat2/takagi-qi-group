@@ -1,27 +1,27 @@
 ---
 page_id: about
 layout: about
-title: about
+title: ホーム
+discription: 髙木研究室のホームページにようこそ！
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
 ---
 
-Test3. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+私たちは、[東京大学駒場キャンパス](https://maps.app.goo.gl/cYoCTEK6EgC6kQpo7)で量子情報理論の基礎的な研究に取り組んでいます。物理学、情報科学、計算科学それぞれの視点から量子系の本質的な性質を明らかにすることに興味があります。
+量子情報分野の問題に幅広く興味を持っていますが、特に力を入れている研究トピックとして
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+- 量子リソース理論
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- 量子エンタングルメント理論
+
+- 量子熱力学
+
+- 連続自由度系の量子情報理論
+
+- 量子誤り訂正・抑制理論
+
+- 量子アルゴリズム
+
+があります。研究議論や研究室見学などご興味ありましたらお気軽に ryujitakagi.pat[at]gmail.com までご連絡ください！
