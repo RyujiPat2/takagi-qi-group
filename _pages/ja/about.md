@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: ホーム
 permalink: /
 
 news: true # includes a list of news items
