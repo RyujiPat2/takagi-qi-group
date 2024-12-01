@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RyujiPat2.github.io/takagi-qi-group/sitemap.xml
+Sitemap: https://group.takagi-qi.science/sitemap.xml
