@@ -64,7 +64,7 @@ profiles:
     name_en: Koki Ehara
     align: left
     image: profile_pictures/Ehara.jpg
-    position: 長期訪問中（京都大学修士課程）
+    position: 訪問中（京都大学修士課程）
     image_circular: false # crops the image to make it circular
 
 
