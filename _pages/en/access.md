@@ -2,10 +2,16 @@
 page_id: access
 layout: page
 permalink: /access/
-title: アクセス
+title: Access
 nav: true
 nav_order: 4
 ---
 
-#住所
-東京都目黒区駒場3-8-1　東京大学駒場キャンパス　16号館　327A（髙木）328（他メンバー）
+## Address
+
+3-8-1, Komaba, Meguro-ku, Tokyo, 153-8902  
+The University of Tokyo Komaba campus, Building 16, Room 327A (Takagi), 328 (other members) [[Map]](https://maps.app.goo.gl/LVNEBMv9CXopciVG6)
+
+## Affiliation
+
+Department of Basic Science, Graduate School of Arts and Sciences, The University of Tokyo

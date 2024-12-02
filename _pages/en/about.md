@@ -1,27 +1,27 @@
 ---
 page_id: about
 layout: about
-title: ホーム
-discription: 髙木研究室のホームページにようこそ！
+title: Home
+discription: Welcome to UTokyo Komaba quantum information theory group site!
 permalink: /
 
 news: true # includes a list of news items
 
 ---
 
-私たちは、[東京大学駒場キャンパス](https://maps.app.goo.gl/cYoCTEK6EgC6kQpo7)で量子情報理論の基礎的な研究に取り組んでいます。物理学、情報科学、計算科学それぞれの視点から量子系の本質的な性質を明らかにすることに興味があります。
-量子情報分野の問題に幅広く興味を持っていますが、特に力を入れている研究トピックとして
+We work on foundational aspects of quantum information theory, aiming to understand operational significance of quantum properties using the tools in physics, information theory, and computer sciences. 
+We are generally interested in wide range of topics in quantum information, but we have been paricularly focusing on 
 
-- 量子リソース理論
+- Quantum resource theories
 
-- 量子エンタングルメント理論
+- Quantum entanglement theory
 
-- 量子熱力学
+- Quantum thermodynamics
 
-- 連続自由度系の量子情報理論
+- Continuous-variable qunatum information
 
-- 量子誤り訂正・抑制理論
+- Quantum error correction and mitigation
 
-- 量子アルゴリズム
+- Quantum algorithms
 
-があります。研究議論や研究室見学などご興味ありましたらお気軽に ryujitakagi.pat[at]gmail.com までご連絡ください！
+If you are interested in discussing with us or knowing more about the group, feel free to shoot an email to ryujitakagi.pat[at]gmail.com

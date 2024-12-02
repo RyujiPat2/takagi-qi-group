@@ -24,12 +24,19 @@ profiles:
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
         url: "https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=ja"
         label: "Google Scholar"
+      - icon: fa-brands fa-x-twitter 
+        url: "https://x.com/RyujiTakagi_Pat"
+        label: "X"
+      - icon: fa-brands fa-linkedin 
+        url: "https://www.linkedin.com/in/%E9%9A%86%E5%8F%B8-%E9%AB%98%E6%9C%A8-5532a3aa/"
+        label: "LinkedIn"
   
   - name: 三橋　洋亮
     name_en: Yosuke Mitsuhashi
     align: left
     image: profile_pictures/Mitsuhashi.jpg
     position: 博士研究員（学振特別研究員）
+    email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: ハーン　オリバー
@@ -37,6 +44,7 @@ profiles:
     align: left
     image: prof_pic.jpg
     position: 博士研究員（CREST）
+    email: hahn[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: 内海　武尊
@@ -44,6 +52,7 @@ profiles:
     align: left
     image: prof_pic.jpg
     position: 大学院生（博士課程）
+    email: takeru-utsumi[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: ゴー　チーピン
@@ -51,6 +60,7 @@ profiles:
     align: left
     image: prof_pic.jpg
     position: 大学院生（修士課程）
+    email: cheepin-goh[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: 渡邉　開人
@@ -58,6 +68,7 @@ profiles:
     align: left
     image: prof_pic.jpg
     position: 大学院生（修士課程）
+    email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: 江原　光紀
@@ -65,6 +76,7 @@ profiles:
     align: left
     image: profile_pictures/Ehara.jpg
     position: 訪問中（京都大学修士課程）
+    email: ehara.koki.82a[at]st.kyoto-u.ac.jp
     image_circular: false # crops the image to make it circular
 
 
