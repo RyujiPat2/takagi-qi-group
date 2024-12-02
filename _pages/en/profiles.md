@@ -21,7 +21,7 @@ profiles:
         url: "https://ryujitakagi.wordpress.com/"
         label: "Personal Website"
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-        url: "https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=ja"
+        url: "https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en"
         label: "Google Scholar"
       - icon: fa-brands fa-x-twitter 
         url: "https://x.com/RyujiTakagi_Pat"
@@ -60,9 +60,16 @@ profiles:
 
   - name: Kaito Watanabe
     align: left
-    image: convex_resource_theories.jpg
+    image: profile_pictures/Watanabe.jpg
     position: Master's Student
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
+    socials:
+      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+        url: "https://scholar.google.com/citations?user=qIY4wBUAAAAJ&hl=ja&authuser=1&oi=ao"
+        label: "Google Scholar"
+      - icon: fa-brands fa-x-twitter 
+        url: "https://x.com/KaitoW_qi"
+        label: "X"
     image_circular: false # crops the image to make it circular
 
   - name: Koki Ehara

@@ -66,9 +66,16 @@ profiles:
   - name: 渡邉　開人
     name_en: Kaito Watanabe
     align: left
-    image: convex_resource_theories.jpg
+    image: profile_pictures/Watanabe.jpg
     position: 大学院生（修士課程）
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
+    socials:
+      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+        url: "https://scholar.google.com/citations?user=qIY4wBUAAAAJ&hl=ja&authuser=1&oi=ao"
+        label: "Google Scholar"
+      - icon: fa-brands fa-x-twitter 
+        url: "https://x.com/KaitoW_qi"
+        label: "X"
     image_circular: false # crops the image to make it circular
 
   - name: 江原　光紀
