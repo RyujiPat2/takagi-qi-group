@@ -38,6 +38,13 @@ profiles:
     image: profile_pictures/Mitsuhashi.jpg
     position: Research Fellow（JSPS）
     email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
+    socials:
+    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+      url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
+      label: "Google Scholar" 
+    - icon: fa-brands fa-x-twitter 
+      url: "https://twitter.com/YM_physics"
+      label: "X"
     image_circular: false # crops the image to make it circular
 
   - name: Oliver Hahn
