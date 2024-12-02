@@ -92,7 +92,7 @@ profiles:
     name_en: Koki Ehara
     align: left
     image: profile_pictures/Ehara.jpg
-    position: 訪問中（京都大学修士課程）
+    position: 訪問大学院生（京都大学修士課程）
     email: ehara.koki.82a[at]st.kyoto-u.ac.jp
     image_circular: false # crops the image to make it circular
 
