@@ -24,6 +24,9 @@ profiles:
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
         url: "https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=ja"
         label: "Google Scholar"
+      - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
+        url: "https://orcid.org/0000-0003-3837-8159"
+        label: "ORCID"  
       - icon: fa-brands fa-x-twitter 
         url: "https://x.com/RyujiTakagi_Pat"
         label: "X"
