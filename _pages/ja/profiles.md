@@ -42,7 +42,7 @@ profiles:
   - name: ハーン　オリバー
     name_en: Oliver Hahn
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: 博士研究員（CREST）
     email: hahn[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
@@ -50,7 +50,7 @@ profiles:
   - name: 内海　武尊
     name_en: Takeru Utsumi
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: 大学院生（博士課程）
     email: takeru-utsumi[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
@@ -58,7 +58,7 @@ profiles:
   - name: ゴー　チーピン
     name_en: Cheepin Goh
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: 大学院生（修士課程）
     email: cheepin-goh[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
@@ -66,7 +66,7 @@ profiles:
   - name: 渡邉　開人
     name_en: Kaito Watanabe
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: 大学院生（修士課程）
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular

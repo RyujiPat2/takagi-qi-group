@@ -39,28 +39,28 @@ profiles:
 
   - name: Oliver Hahn
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: Research Fellow（CREST）
     email: hahn[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: Takeru Utsumi
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: Ph.D. Student
     email: takeru-utsumi[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: Cheepin Goh
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: Master's Student
     email: cheepin-goh[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: Kaito Watanabe
     align: left
-    image: prof_pic.jpg
+    image: convex_resource_theories.jpg
     position: Master's Student
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular

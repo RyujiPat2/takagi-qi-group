@@ -4,7 +4,7 @@ layout: about
 title: Home
 discription: Welcome to UTokyo Komaba quantum information theory group site!
 permalink: /
-
+lang: en
 news: true # includes a list of news items
 
 ---
