@@ -60,9 +60,13 @@ profiles:
   - name: 内海　武尊
     name_en: Takeru Utsumi
     align: left
-    image: convex_resource_theories.jpg
+    image: profile_pictures/Utsumi.jpg
     position: 大学院生（博士課程）
     email: takeru-utsumi[at]g.ecc.u-tokyo.ac.jp
+    socials:
+      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+        url: "https://scholar.google.com/citations?user=h-O6JLIAAAAJ&hl=ja&oi=ao"
+        label: "Google Scholar" 
     image_circular: false # crops the image to make it circular
 
   - name: ゴー　チーピン

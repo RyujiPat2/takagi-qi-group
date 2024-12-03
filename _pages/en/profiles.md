@@ -56,9 +56,13 @@ profiles:
 
   - name: Takeru Utsumi
     align: left
-    image: convex_resource_theories.jpg
+    image: profile_pictures/Utsumi.jpg
     position: Ph.D. Student
     email: takeru-utsumi[at]g.ecc.u-tokyo.ac.jp
+    socials:
+      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+        url: "https://scholar.google.com/citations?user=h-O6JLIAAAAJ&hl=ja&oi=ao"
+        label: "Google Scholar" 
     image_circular: false # crops the image to make it circular
 
   - name: Cheepin Goh
