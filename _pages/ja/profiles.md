@@ -52,9 +52,13 @@ profiles:
   - name: ハーン　オリバー
     name_en: Oliver Hahn
     align: left
-    image: convex_resource_theories.jpg
+    image: profile_pictures/Oliver.jpg
     position: 博士研究員（CREST）
     email: hahn[at]g.ecc.u-tokyo.ac.jp
+    socials:
+      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+        url: "https://scholar.google.com.co/citations?user=A-0W1loAAAAJ&hl=en"
+        label: "Google Scholar"
     image_circular: false # crops the image to make it circular
 
   - name: 内海　武尊
