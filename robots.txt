@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://group.takagi-qi.science/sitemap.xml
