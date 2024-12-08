@@ -1,4 +1,5 @@
 site_title: "東大駒場　髙木量子情報理論研究室　東京大学総合文化研究科広域科学専攻相関基礎科学系"
+site_description: 東大駒場　髙木量子情報理論研究室　
 
 archive_category: このカテゴリの記事のアーカイブ
 archive_tag: このタグの記事のアーカイブ
@@ -142,5 +143,5 @@ search:
     title: システムテーマを使用
   theme: テーマ
 selected_publications: 選択された出版物
-site_description: シンプルな学術テーマ。[*folio](https://github.com/bogoli/-folio)デザインに基づいています。
+
 

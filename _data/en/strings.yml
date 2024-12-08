@@ -1,4 +1,5 @@
 site_title: "Takagi Quantum Information Theory Group"
+site_description: Takagi Quantum Information Theory Group---University of Tokyo
 
 archive_category: an archive of posts in this category
 archive_tag: an archive of posts with this tag
@@ -141,4 +142,4 @@ search:
     title: Use system default theme
   theme: Theme
 selected_publications: selected publications
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+

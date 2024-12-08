@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Takagi Quantum Information Theory Group # the website title (if blank, full name will be used instead)
+left_corner: Takagi Quantum Information Theory Group # text in the left-corner of the header
 first_name: 
 middle_name: 
 last_name: 
@@ -16,7 +17,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
-left_corner: Takagi Quantum Information Theory Group
+
 
 # -----------------------------------------------------------------------------
 # Theme
