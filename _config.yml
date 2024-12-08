@@ -390,7 +390,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en", "ja"]
+languages: ["ja", "en"]
+languages_header: ["日本語", "English"]
 default_lang: "ja"
 exclude_from_localization: ["assets"]
 lang_from_path: true
