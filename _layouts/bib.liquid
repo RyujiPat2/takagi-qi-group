@@ -190,20 +190,11 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.abstract and entry.abstract != blank %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">ABSTRACT</a>
-      {% endif %}
       {% if entry.url and entry.url != blank %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
       {% endif %}
       {% if entry.arxiv and entry.arxiv != blank %}
         <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
-      {% endif %}
-      {% if entry.pmid and entry.pmid != blank %}
-        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ entry.pmid }}" class="btn btn-sm z-depth-0" role="button">PUBMED</a>
-      {% endif %}
-      {% if entry.feature_article and entry.feature_article != blank %}
-        <a href="{{ entry.feature_article }}" class="btn btn-sm z-depth-0" role="button">FEATURE ARTICLE</a>
       {% endif %}
       {% if entry.press_release and entry.press_release != blank %}
         <a href="{{ entry.press_release }}" class="btn btn-sm z-depth-0" role="button">PRESS RELEASE</a>
