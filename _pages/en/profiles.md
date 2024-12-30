@@ -30,7 +30,7 @@ profiles:
         url: "https://x.com/RyujiTakagi_Pat"
         label: "X"
       - icon: fa-brands fa-linkedin 
-        url: "https://www.linkedin.com/in/%E9%9A%86%E5%8F%B8-%E9%AB%98%E6%9C%A8-5532a3aa/"
+        url: "https://www.linkedin.com/in/ryuji-takagi-5532a3aa/"
         label: "LinkedIn"
   
   - name: Yosuke Mitsuhashi
