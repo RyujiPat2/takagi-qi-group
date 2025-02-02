@@ -4,11 +4,11 @@
 
 title: Takagi Quantum Information Theory Group-University of Tokyo # the website title (if blank, full name will be used instead)
 left_corner: Takagi Quantum Information Theory Group # text in the left-corner of the header
-first_name: 
+first_name: 隆司
 middle_name: 
-last_name: 
+last_name: 高木
 email: 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Takagi, Ryuji, quantum information, University of Tokyo, Komaba, 高木, 髙木, 隆司, 量子情報理論, 高木研, 髙木研, 研究室, 東京大学, 東大, 駒場 # add your own keywords or leave empty
 icon: convex_resource_theories.jpg # ⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://group.takagi-qi.science # the base hostname & protocol for your site
