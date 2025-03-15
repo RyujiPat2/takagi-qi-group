@@ -49,7 +49,7 @@ profiles:
         label: "X"
     image_circular: false # crops the image to make it circular
 
-  - name: ハーン　オリバー
+  - name: オリバー　ハーン
     name_en: Oliver Hahn
     align: left
     image: profile_pictures/Oliver.jpg
@@ -59,6 +59,27 @@ profiles:
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
         url: "https://scholar.google.com.co/citations?user=A-0W1loAAAAJ&hl=en"
         label: "Google Scholar"
+    image_circular: false # crops the image to make it circular
+
+  - name: 荒井　駿
+    name_en: Hayato Arai
+    align: left
+    image: profile_pictures/Arai.png
+    position: 博士研究員（学振特別研究員）
+    email: h.arai6626[at]gmail.com
+    socials:
+    - icon: fas fa-globe   # Font Awesome icon for website
+      url: "https://hayato-arai.com/index.html"
+      label: "Personal Website"
+    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+      url: "https://scholar.google.com/citations?hl=ja&view_op=list_works&authuser=1&gmla=ANZ5fUNuz3re0Y4vEtiwvAjnmCW5dGgn4vdowHs_H30MCmncBf-BNZZbRoQg3Q8rOIwdbq3-S7DthqfLEKU_gHzUB8THYo6H4OKFoVRl6nsWrrk&user=yXIsnssAAAAJ"
+      label: "Google Scholar"
+    - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
+      url: "https://orcid.org/0000-0002-6780-1246"
+      label: "ORCID"  
+    - icon: fa-brands fa-x-twitter 
+      url: "https://x.com/Hayato_Arai_QI"
+      label: "X"
     image_circular: false # crops the image to make it circular
 
   - name: 内海　武尊
