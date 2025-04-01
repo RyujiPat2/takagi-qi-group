@@ -33,19 +33,19 @@ profiles:
         url: "https://www.linkedin.com/in/ryuji-takagi-5532a3aa/"
         label: "LinkedIn"
   
-  - name: Yosuke Mitsuhashi
-    align: left
-    image: profile_pictures/Mitsuhashi.jpg
-    position: Research Fellow（JSPS）
-    email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
-    socials:
-    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-      url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
-      label: "Google Scholar" 
-    - icon: fa-brands fa-x-twitter 
-      url: "https://twitter.com/YM_physics"
-      label: "X"
-    image_circular: false # crops the image to make it circular
+  # - name: Yosuke Mitsuhashi
+  #   align: left
+  #   image: profile_pictures/Mitsuhashi.jpg
+  #   position: Research Fellow（JSPS）
+  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
+  #   socials:
+  #   - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+  #     url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
+  #     label: "Google Scholar" 
+  #   - icon: fa-brands fa-x-twitter 
+  #     url: "https://twitter.com/YM_physics"
+  #     label: "X"
+  #   image_circular: false # crops the image to make it circular
 
   - name: Oliver Hahn
     align: left
@@ -89,6 +89,13 @@ profiles:
         label: "Google Scholar" 
     image_circular: false # crops the image to make it circular
 
+  - name: Koki Ehara
+    align: left
+    image: profile_pictures/Ehara.jpg
+    position: Ph.D. Student
+    email: kokieha0331[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+
   - name: Cheepin Goh
     align: left
     image: convex_resource_theories.jpg
@@ -110,13 +117,33 @@ profiles:
         label: "X"
     image_circular: false # crops the image to make it circular
 
-  - name: Koki Ehara
+  - name: Koki Ono
     align: left
-    image: profile_pictures/Ehara.jpg
-    position: Visiting Master's Student（from Kyoto University）
-    email: ehara.koki.82a[at]st.kyoto-u.ac.jp
+    image: convex_resource_theories.jpg
+    position: Master's Student
+    # email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
+  - name: Rio Suzuki
+    align: left
+    image: convex_resource_theories.jpg
+    position: Master's Student
+    # email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+  
+  - name: Shinnosuke Onishi
+    align: left
+    image: profile_pictures/Onishi.jpg
+    position: Undergraduate Student
+    email: jyagadeko[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+    socials:
+    - icon: fa-brands fa-x-twitter 
+      url: "https://x.com/michi_mark_shin"
+      label: "X"
+    - icon: fa-brands fa-linkedin 
+      url: "https://www.linkedin.com/in/慎之助-大西-455944305/"
+      label: "LinkedIn"
 
 ---
 

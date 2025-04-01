@@ -34,20 +34,20 @@ profiles:
         url: "https://www.linkedin.com/in/ryuji-takagi-5532a3aa/"
         label: "LinkedIn"
   
-  - name: 三橋　洋亮
-    name_en: Yosuke Mitsuhashi
-    align: left
-    image: profile_pictures/Mitsuhashi.jpg
-    position: 博士研究員（学振特別研究員）
-    email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
-    socials:
-      - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-        url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
-        label: "Google Scholar" 
-      - icon: fa-brands fa-x-twitter 
-        url: "https://twitter.com/YM_physics"
-        label: "X"
-    image_circular: false # crops the image to make it circular
+  # - name: 三橋　洋亮
+  #   name_en: Yosuke Mitsuhashi
+  #   align: left
+  #   image: profile_pictures/Mitsuhashi.jpg
+  #   position: 博士研究員（学振特別研究員）
+  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
+  #   socials:
+  #     - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+  #       url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
+  #       label: "Google Scholar" 
+  #     - icon: fa-brands fa-x-twitter 
+  #       url: "https://twitter.com/YM_physics"
+  #       label: "X"
+  #   image_circular: false # crops the image to make it circular
 
   - name: オリバー　ハーン
     name_en: Oliver Hahn
@@ -94,6 +94,14 @@ profiles:
         label: "Google Scholar" 
     image_circular: false # crops the image to make it circular
 
+  - name: 江原　光紀
+    name_en: Koki Ehara
+    align: left
+    image: profile_pictures/Ehara.jpg
+    position: 大学院生（博士課程）
+    email: kokieha0331[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+
   - name: ゴー　チーピン
     name_en: Cheepin Goh
     align: left
@@ -117,14 +125,36 @@ profiles:
         label: "X"
     image_circular: false # crops the image to make it circular
 
-  - name: 江原　光紀
-    name_en: Koki Ehara
+  - name: 大野　浩輝
+    name_en: Koki Ono
     align: left
-    image: profile_pictures/Ehara.jpg
-    position: 訪問大学院生（京都大学修士課程）
-    email: ehara.koki.82a[at]st.kyoto-u.ac.jp
+    image: convex_resource_theories.jpg
+    position: 大学院生（修士課程）
+    # email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
+  - name: 鈴木　吏音
+    name_en: Rio Suzuki
+    align: left
+    image: convex_resource_theories.jpg
+    position: 大学院生（修士課程）
+    # email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+  
+  - name: 大西　慎之助
+    name_en: Shinnosuke Onishi
+    align: left
+    image: profile_pictures/Onishi.jpg
+    position: 学部生（統合自然科学科）
+    email: jyagadeko[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+    socials:
+    - icon: fa-brands fa-x-twitter 
+      url: "https://x.com/michi_mark_shin"
+      label: "X"
+    - icon: fa-brands fa-linkedin 
+      url: "https://www.linkedin.com/in/慎之助-大西-455944305/"
+      label: "LinkedIn"
 
 ---
 
