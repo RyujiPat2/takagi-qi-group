@@ -138,7 +138,7 @@ profiles:
     align: left
     image: convex_resource_theories.jpg
     position: 大学院生（修士課程）
-    # email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
+    email: rio-suzuki[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
   
   - name: 大西　慎之助
