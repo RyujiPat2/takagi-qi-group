@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: ホーム
 head: 東大駒場量子情報理論研究室のページにようこそ！
-description: 東京大学駒場　高木隆司量子情報理論研究室
+description: 
 permalink: /
 
 news: true # includes a list of news items
