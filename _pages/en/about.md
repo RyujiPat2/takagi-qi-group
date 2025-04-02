@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: Home
 head: Welcome to UTokyo Komaba quantum information theory group site!
-description: University of Tokyo Komaba quantum information theory Ryuji Takagi group
+description: 
 permalink: /
 lang: en
 news: true # includes a list of news items
