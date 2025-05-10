@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: Home
 head: Welcome to UTokyo Komaba quantum information theory group site!
-description: 
+description: Takagi Quantum Information Theory group at the University of Tokyo
 permalink: /
 lang: en
 news: true # includes a list of news items
