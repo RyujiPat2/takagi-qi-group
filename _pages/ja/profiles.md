@@ -117,6 +117,9 @@ profiles:
     position: 大学院生（修士課程）
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     socials:
+      - icon: fas fa-globe   # Font Awesome icon for website
+        url: "https://sites.google.com/view/kaitowatanabe/about"
+        label: "Personal Website"
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
         url: "https://scholar.google.com/citations?user=qIY4wBUAAAAJ&hl=ja&authuser=1&oi=ao"
         label: "Google Scholar"
