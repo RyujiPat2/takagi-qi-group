@@ -15,7 +15,7 @@ profiles:
     image: profile_pictures/Takagi.jpg
     image_circular: false # crops the image to make it circular
     position: Principal Investigator (Associate Professor)
-    email: ryuji.takagi[at]g.ecc.u-tokyo.ac.jp
+    email: ryujitakagi[at]g.ecc.u-tokyo.ac.jp
     socials:
       - icon: fas fa-globe   # Font Awesome icon for website
         url: "https://ryujitakagi.wordpress.com/"
