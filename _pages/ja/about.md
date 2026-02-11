@@ -26,4 +26,4 @@ news: true # includes a list of news items
 
 - 量子アルゴリズム
 
-があります。研究議論や研究室見学などご興味ありましたらお気軽に ryujitakagi.pat[at]gmail.com までご連絡ください。
+があります。研究議論や研究室見学などご興味ありましたらお気軽に ryujitakagi[at]g.ecc.u-tokyo.ac.jp までご連絡ください。

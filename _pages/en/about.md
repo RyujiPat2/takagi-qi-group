@@ -25,4 +25,4 @@ We are generally interested in wide range of topics in quantum information, but 
 
 - Quantum algorithms
 
-If you are interested in discussing with us or knowing more about the group, feel free to shoot an email to ryujitakagi.pat[at]gmail.com
+If you are interested in discussing with us or knowing more about the group, feel free to shoot an email to ryujitakagi[at]g.ecc.u-tokyo.ac.jp
