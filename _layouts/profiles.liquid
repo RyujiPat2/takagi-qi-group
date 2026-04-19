@@ -125,5 +125,15 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+
+    {% if page.alumni and page.alumni.size > 0 %}
+      <hr>
+      <h2>Alumni</h2>
+      <ul>
+        {% for person in page.alumni %}
+          <li>{{ person }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </article>
 </div>

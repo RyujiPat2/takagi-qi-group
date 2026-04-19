@@ -33,21 +33,6 @@ profiles:
       - icon: fa-brands fa-linkedin 
         url: "https://www.linkedin.com/in/ryuji-takagi-5532a3aa/"
         label: "LinkedIn"
-  
-  # - name: 三橋　洋亮
-  #   name_en: Yosuke Mitsuhashi
-  #   align: left
-  #   image: profile_pictures/Mitsuhashi.jpg
-  #   position: 博士研究員（学振特別研究員）
-  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
-  #   socials:
-  #     - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-  #       url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
-  #       label: "Google Scholar" 
-  #     - icon: fa-brands fa-x-twitter 
-  #       url: "https://twitter.com/YM_physics"
-  #       label: "X"
-  #   image_circular: false # crops the image to make it circular
 
   - name: オリバー　ハーン
     name_en: Oliver Hahn
@@ -59,27 +44,6 @@ profiles:
       - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
         url: "https://scholar.google.com.co/citations?user=A-0W1loAAAAJ&hl=en"
         label: "Google Scholar"
-    image_circular: false # crops the image to make it circular
-
-  - name: 荒井　駿
-    name_en: Hayato Arai
-    align: left
-    image: profile_pictures/Arai.png
-    position: 博士研究員（学振特別研究員）
-    email: h.arai6626[at]gmail.com
-    socials:
-    - icon: fas fa-globe   # Font Awesome icon for website
-      url: "https://hayato-arai.com/index.html"
-      label: "Personal Website"
-    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-      url: "https://scholar.google.com/citations?hl=ja&view_op=list_works&authuser=1&gmla=ANZ5fUNuz3re0Y4vEtiwvAjnmCW5dGgn4vdowHs_H30MCmncBf-BNZZbRoQg3Q8rOIwdbq3-S7DthqfLEKU_gHzUB8THYo6H4OKFoVRl6nsWrrk&user=yXIsnssAAAAJ"
-      label: "Google Scholar"
-    - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
-      url: "https://orcid.org/0000-0002-6780-1246"
-      label: "ORCID"  
-    - icon: fa-brands fa-x-twitter 
-      url: "https://x.com/Hayato_Arai_QI"
-      label: "X"
     image_circular: false # crops the image to make it circular
 
   - name: 内海　武尊
@@ -106,7 +70,7 @@ profiles:
     name_en: Cheepin Goh
     align: left
     image: convex_resource_theories.jpg
-    position: 大学院生（修士課程）
+    position: 大学院生（博士課程）
     email: cheepin-goh[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
@@ -114,7 +78,7 @@ profiles:
     name_en: Kaito Watanabe
     align: left
     image: profile_pictures/Watanabe.jpg
-    position: 大学院生（修士課程）
+    position: 大学院生（博士課程）
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     socials:
       - icon: fas fa-globe   # Font Awesome icon for website
@@ -143,6 +107,14 @@ profiles:
     position: 大学院生（修士課程）
     email: rio-suzuki[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
+
+  - name: 森　佑一
+    name_en: Yuichi Mori
+    align: left
+    image: profile_pictures/Mori.jpg
+    position: 大学院生（修士課程）
+    email: yuichi-mori[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
   
   - name: 大西　慎之助
     name_en: Shinnosuke Onishi
@@ -158,6 +130,49 @@ profiles:
     - icon: fa-brands fa-linkedin 
       url: "https://www.linkedin.com/in/慎之助-大西-455944305/"
       label: "LinkedIn"
+
+# - name: 荒井　駿
+#     name_en: Hayato Arai
+#     align: left
+#     image: profile_pictures/Arai.png
+#     position: 博士研究員（学振特別研究員）
+#     email: h.arai6626[at]gmail.com
+#     socials:
+#     - icon: fas fa-globe   # Font Awesome icon for website
+#       url: "https://hayato-arai.com/index.html"
+#       label: "Personal Website"
+#     - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+#       url: "https://scholar.google.com/citations?hl=ja&view_op=list_works&authuser=1&gmla=ANZ5fUNuz3re0Y4vEtiwvAjnmCW5dGgn4vdowHs_H30MCmncBf-BNZZbRoQg3Q8rOIwdbq3-S7DthqfLEKU_gHzUB8THYo6H4OKFoVRl6nsWrrk&user=yXIsnssAAAAJ"
+#       label: "Google Scholar"
+#     - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
+#       url: "https://orcid.org/0000-0002-6780-1246"
+#       label: "ORCID"  
+#     - icon: fa-brands fa-x-twitter 
+#       url: "https://x.com/Hayato_Arai_QI"
+#       label: "X"
+#     image_circular: false # crops the image to make it circular
+
+
+# - name: 三橋　洋亮
+  #   name_en: Yosuke Mitsuhashi
+  #   align: left
+  #   image: profile_pictures/Mitsuhashi.jpg
+  #   position: 博士研究員（学振特別研究員）
+  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
+  #   socials:
+  #     - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+  #       url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
+  #       label: "Google Scholar" 
+  #     - icon: fa-brands fa-x-twitter 
+  #       url: "https://twitter.com/YM_physics"
+  #       label: "X"
+  #   image_circular: false # crops the image to make it circular
+
+
+almuni:
+  - 荒井　駿（博士研究員）
+  - 三橋　洋亮（博士研究員）
+  - 顔　子涵（学部生）
 
 ---
 

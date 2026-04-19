@@ -32,20 +32,6 @@ profiles:
       - icon: fa-brands fa-linkedin 
         url: "https://www.linkedin.com/in/ryuji-takagi-5532a3aa/"
         label: "LinkedIn"
-  
-  # - name: Yosuke Mitsuhashi
-  #   align: left
-  #   image: profile_pictures/Mitsuhashi.jpg
-  #   position: Research Fellow（JSPS）
-  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
-  #   socials:
-  #   - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-  #     url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
-  #     label: "Google Scholar" 
-  #   - icon: fa-brands fa-x-twitter 
-  #     url: "https://twitter.com/YM_physics"
-  #     label: "X"
-  #   image_circular: false # crops the image to make it circular
 
   - name: Oliver Hahn
     align: left
@@ -58,25 +44,6 @@ profiles:
         label: "Google Scholar"
     image_circular: false # crops the image to make it circular
 
-  - name: Hayato Arai
-    align: left
-    image: profile_pictures/Arai.png
-    position: Research Fellow（JSPS）
-    email: h.arai6626[at]gmail.com
-    socials:
-    - icon: fas fa-globe   # Font Awesome icon for website
-      url: "https://hayato-arai.com/index.html"
-      label: "Personal Website"
-    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
-      url: "https://scholar.google.com/citations?hl=ja&view_op=list_works&authuser=1&gmla=ANZ5fUNuz3re0Y4vEtiwvAjnmCW5dGgn4vdowHs_H30MCmncBf-BNZZbRoQg3Q8rOIwdbq3-S7DthqfLEKU_gHzUB8THYo6H4OKFoVRl6nsWrrk&user=yXIsnssAAAAJ"
-      label: "Google Scholar"
-    - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
-      url: "https://orcid.org/0000-0002-6780-1246"
-      label: "ORCID"  
-    - icon: fa-brands fa-x-twitter 
-      url: "https://x.com/Hayato_Arai_QI"
-      label: "X"
-    image_circular: false # crops the image to make it circular
 
   - name: Takeru Utsumi
     align: left
@@ -99,14 +66,14 @@ profiles:
   - name: Cheepin Goh
     align: left
     image: convex_resource_theories.jpg
-    position: Master's Student
+    position: Ph.D. Student
     email: cheepin-goh[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
 
   - name: Kaito Watanabe
     align: left
     image: profile_pictures/Watanabe.jpg
-    position: Master's Student
+    position: Ph.D. Student
     email: watanabe715[at]g.ecc.u-tokyo.ac.jp
     socials:
       - icon: fas fa-globe   # Font Awesome icon for website
@@ -134,6 +101,13 @@ profiles:
     email: rio-suzuki[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
   
+  - name: Yuichi Mori
+    align: left
+    image: profile_pictures/Mori.jpg
+    position: Master's Student
+    email: yuichi-mori[at]g.ecc.u-tokyo.ac.jp
+    image_circular: false # crops the image to make it circular
+  
   - name: Shinnosuke Onishi
     align: left
     image: profile_pictures/Onishi.jpg
@@ -148,5 +122,43 @@ profiles:
       url: "https://www.linkedin.com/in/慎之助-大西-455944305/"
       label: "LinkedIn"
 
----
+# - name: Hayato Arai
+  #   align: left
+  #   image: profile_pictures/Arai.png
+  #   position: Research Fellow（JSPS）
+  #   email: h.arai6626[at]gmail.com
+  #   socials:
+  #   - icon: fas fa-globe   # Font Awesome icon for website
+  #     url: "https://hayato-arai.com/index.html"
+  #     label: "Personal Website"
+  #   - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+  #     url: "https://scholar.google.com/citations?hl=ja&view_op=list_works&authuser=1&gmla=ANZ5fUNuz3re0Y4vEtiwvAjnmCW5dGgn4vdowHs_H30MCmncBf-BNZZbRoQg3Q8rOIwdbq3-S7DthqfLEKU_gHzUB8THYo6H4OKFoVRl6nsWrrk&user=yXIsnssAAAAJ"
+  #     label: "Google Scholar"
+  #   - icon: fa-brands fa-orcid # Font Awesome icon for Google Scholar
+  #     url: "https://orcid.org/0000-0002-6780-1246"
+  #     label: "ORCID"  
+  #   - icon: fa-brands fa-x-twitter 
+  #     url: "https://x.com/Hayato_Arai_QI"
+  #     label: "X"
+  #   image_circular: false # crops the image to make it circular
 
+  # - name: Yosuke Mitsuhashi
+  #   align: left
+  #   image: profile_pictures/Mitsuhashi.jpg
+  #   position: Research Fellow（JSPS）
+  #   email: mitsuhashi[at]noneq.t.u-tokyo.ac.jp
+  #   socials:
+  #   - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+  #     url: "https://scholar.google.com/citations?user=vNDEhH4AAAAJ&hl=ja&oi=ao"
+  #     label: "Google Scholar" 
+  #   - icon: fa-brands fa-x-twitter 
+  #     url: "https://twitter.com/YM_physics"
+  #     label: "X"
+  #   image_circular: false # crops the image to make it circular
+
+alumni:
+  - Hayato Arai (Research Fellow)
+  - Yosuke Mitsuhashi (Research Fellow)
+  - Zihan Yan (Undergraduate Student)
+
+---
