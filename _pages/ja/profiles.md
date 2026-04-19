@@ -169,7 +169,7 @@ profiles:
   #   image_circular: false # crops the image to make it circular
 
 
-almuni:
+alumni:
   - 荒井　駿（博士研究員）
   - 三橋　洋亮（博士研究員）
   - 顔　子涵（学部生）
