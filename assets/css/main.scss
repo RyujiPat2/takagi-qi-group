@@ -24,3 +24,18 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss",
   "flag-icons/flag-icons"
 ;
+
+.news-box {
+  max-height: 250px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #fafafa;
+}
+
+@media (prefers-color-scheme: dark) {
+  .news-box {
+    background-color: #222;
+    border-color: #444;
+  }
+}

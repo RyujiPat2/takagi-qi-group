@@ -39,12 +39,27 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    {% comment %}
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.news }}</a>
       </h2>
       {% include news.liquid limit=true %}
+    {% endif %}
+    {% endcomment %}
+
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">
+          {{ site.data[site.active_lang].strings.news }}
+        </a>
+      </h2>
+
+      <div class="news-box">
+        {% include news.liquid limit=false %}
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
