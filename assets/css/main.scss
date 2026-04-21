@@ -34,3 +34,8 @@ $max-content-width: {{ site.max_width }};
   background-color: #fafafa;
 }
 
+html[data-theme="dark"] .news-box {
+  background-color: #222;
+  border-color: #444;
+  color: #eee;
+}
