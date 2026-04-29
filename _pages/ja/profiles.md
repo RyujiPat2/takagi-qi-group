@@ -121,9 +121,12 @@ profiles:
     align: left
     image: profile_pictures/Onishi.jpg
     position: 学部生（統合自然科学科）
-    email: jyagadeko[at]g.ecc.u-tokyo.ac.jp
+    email: shinonishi[at]g.ecc.u-tokyo.ac.jp
     image_circular: false # crops the image to make it circular
     socials:
+    - icon: fas fa-graduation-cap # Font Awesome icon for Google Scholar
+      url: "https://scholar.google.com/citations?user=v2phUE0AAAAJ&hl=en&oi=sra"
+      label: "Google Scholar"
     - icon: fa-brands fa-x-twitter 
       url: "https://x.com/michi_mark_shin"
       label: "X"
